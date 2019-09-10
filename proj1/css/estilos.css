@@ -1,0 +1,56 @@
+<style type="text/css">
+	  
+	   header, footer{
+	   	background-color: darkred;
+	   	color: black;
+	   	padding: 1em; 
+	   }
+        
+	   header{height: 200px; }
+
+       
+        img{
+        	float: left;
+        	width: 200px;
+        	height: 100px; 
+
+        }
+        
+        #tituloContenido{ position: absolute; }
+
+        #menuHorizontal{
+        	border: 2px black;
+        	height: 50px; 
+        	display: flex;
+        	position: relative;
+        	top: 2em;
+        	left: 2em;
+        	width: 600px;
+        }
+
+
+		li{display: inline;}
+
+        nav	ul a{
+        	text-decoration: none;
+        	color: white;
+        	font-size: 30px;
+
+        }
+
+        #redesoc{
+        	position: relative;
+        	left: 70em; 
+
+        }
+
+        .iconoredsoc{
+        	width: 30px;
+        	height: 30px;
+        }
+
+		
+
+
+	
+	</style>
